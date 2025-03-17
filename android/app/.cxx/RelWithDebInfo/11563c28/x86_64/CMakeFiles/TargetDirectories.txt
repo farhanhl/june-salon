@@ -1,0 +1,2 @@
+/Users/macbook/Desktop/project/june-salon-main/android/app/.cxx/RelWithDebInfo/11563c28/x86_64/CMakeFiles/edit_cache.dir
+/Users/macbook/Desktop/project/june-salon-main/android/app/.cxx/RelWithDebInfo/11563c28/x86_64/CMakeFiles/rebuild_cache.dir
